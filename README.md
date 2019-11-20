@@ -1,5 +1,5 @@
 # 🅶🆄🅸-🅿🅱🅾
-# LATIHAN-GUI-1
+# 🄻🄰🅃🄸🄷🄰🄽-🄶🅄🄸-1
 
 ## LATIHAN SOAL 1
 
@@ -36,7 +36,8 @@
 
 ![Alt Text](https://github.com/rendiwibawa/GUI-Pbo/blob/master/GUI/gui%201%20KUIS2_b.PNG)
 
-# LATIHAN GUI 2 LANJUTAN
+
+# 🄻🄰🅃🄸🄷🄰🄽 🄶🅄🄸 2 🄻🄰🄽🄹🅄🅃🄰🄽
 
 ## LATIHAN 1
 
