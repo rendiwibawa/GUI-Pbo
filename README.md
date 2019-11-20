@@ -1,4 +1,11 @@
-# 🅶🆄🅸-🅿🅱🅾
+# 🅶🆄🅸-🅿🅱🅾-JFrame
+# ⒶⓅⒶ ⒾⓉⓊ ⒿⒻⓡⓐⓜⓔ
+>Pengenalan JFrame pada Java
+JFrame adalah salah satu class dalam java yang dapat digunakan untuk membuat frame sebagai top-level container. Top-level container adalah container dasar di mana komponen swing lainnya diletakkan. Komponen lain yang dimaksudkan antara lain: button, textField, label, dll. Jadi frame di java identik dengan istilah form dalam visual basic.
+# 𝓐𝓟𝓐 𝓘𝓣𝓤 🅶🆄🅸
+>Pengertian GUI Pada JAVA 
+Graphic User Interface (GUI) adalah pemrograman dengan bahasa Java yang dibuat menggunakan aplikasi yang berbasiskan GUI. Tujuannya adalah menambahkan beberapa komponen yang tidak bisa dibuat dalam basis text.
+
 # 🄻🄰🅃🄸🄷🄰🄽-🄶🅄🄸-1
 
 ## LATIHAN SOAL 1
